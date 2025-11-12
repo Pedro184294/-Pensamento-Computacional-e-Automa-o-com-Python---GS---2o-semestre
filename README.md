@@ -22,8 +22,13 @@ O sistema simula uma ferramenta inteligente de **orientação de carreira**, con
 
 Principais Classes
 Classe	Descrição
+
 Competencia: 	Representa uma competência (ex: lógica, criatividade, colaboração).
+
 Perfil: 	Armazena as competências e notas de um candidato.
+
 Carreira: 	Define os requisitos e pesos de cada carreira.
+
 Recomendador: 	Calcula a aderência entre o perfil e as carreiras, gerando recomendações.
+
 SistemaCLI: 	Interface textual para interação com o usuário (menu principal).
