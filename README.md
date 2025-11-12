@@ -34,25 +34,43 @@ Recomendador: 	Calcula a aderência entre o perfil e as carreiras, gerando recom
 
 SistemaCLI: 	Interface textual para interação com o usuário (menu principal).
 
-* Demonstração
+* Demonstração:
+  
  Exemplo de uso (Google Colab)
 
 === Sistema de Orientação de Carreiras ===
+
 Digite seu nome: Ana Silva
 
 Informe suas competências (nota de 0 a 10).
+
 logica: 8
+
 programacao: 7
+
 criatividade: 9
+
 comunicacao: 6
+
 estatistica: 5
 
 ✅ Perfil salvo em /content/profiles/Ana_Silva.json
 
 === Recomendações para Ana Silva ===
+
 1. Designer de Experiência (UX) — Aderência: 87.5%
+   
    • Melhore 'prototipacao' em cerca de 1.5 pontos (ideal: 7)
-2. Engenheiro de Machine Learning — Aderência: 78.4%
+   
+3. Engenheiro de Machine Learning — Aderência: 78.4%
+   
    • Melhore 'matematica' em cerca de 2.0 pontos (ideal: 9)
+   
    • Melhore 'colaboracao' em cerca de 1.5 pontos (ideal: 6)
+
 ...
+
+Conclusão
+
+O projeto integra conceitos de Programação Orientada a Objetos (POO), estruturas de dados (listas, dicionários, tuplas) e lógica condicional para criar uma aplicação prática voltada ao futuro do trabalho.
+O usuário pode facilmente identificar carreiras compatíveis com seu perfil e áreas para aprimoramento, promovendo o autodesenvolvimento e o aprendizado contínuo.
