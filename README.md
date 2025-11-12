@@ -21,7 +21,8 @@ O sistema simula uma ferramenta inteligente de **orientação de carreira**, con
 7. O sistema mostrará as carreiras mais compatíveis e dicas de melhoria personalizadas.
 
 Principais Classes
-Classe	Descrição
+
+Classe	         Descrição
 
 Competencia: 	Representa uma competência (ex: lógica, criatividade, colaboração).
 
